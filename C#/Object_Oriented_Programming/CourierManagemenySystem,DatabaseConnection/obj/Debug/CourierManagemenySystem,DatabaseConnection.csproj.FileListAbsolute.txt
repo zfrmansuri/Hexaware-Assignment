@@ -1,0 +1,9 @@
+D:\C#\C# Assignment\OOPS\CourierManagemenySystem,DatabaseConnection\bin\Debug\CourierManagemenySystem,DatabaseConnection.dll
+D:\C#\C# Assignment\OOPS\CourierManagemenySystem,DatabaseConnection\bin\Debug\CourierManagemenySystem,DatabaseConnection.pdb
+D:\C#\C# Assignment\OOPS\CourierManagemenySystem,DatabaseConnection\bin\Debug\CourierManagementSystem.Entitiy.dll
+D:\C#\C# Assignment\OOPS\CourierManagemenySystem,DatabaseConnection\bin\Debug\CourierManagementSystem.Entitiy.pdb
+D:\C#\C# Assignment\OOPS\CourierManagemenySystem,DatabaseConnection\obj\Debug\CourierManagemenySystem,DatabaseConnection.csproj.AssemblyReference.cache
+D:\C#\C# Assignment\OOPS\CourierManagemenySystem,DatabaseConnection\obj\Debug\CourierManagemenySystem,DatabaseConnection.csproj.CoreCompileInputs.cache
+D:\C#\C# Assignment\OOPS\CourierManagemenySystem,DatabaseConnection\obj\Debug\CourierM.E64B9B8C.Up2Date
+D:\C#\C# Assignment\OOPS\CourierManagemenySystem,DatabaseConnection\obj\Debug\CourierManagemenySystem,DatabaseConnection.dll
+D:\C#\C# Assignment\OOPS\CourierManagemenySystem,DatabaseConnection\obj\Debug\CourierManagemenySystem,DatabaseConnection.pdb
