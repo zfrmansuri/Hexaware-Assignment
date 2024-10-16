@@ -1,0 +1,6 @@
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.Entitiy\bin\Debug\CourierManagementSystem.Entitiy.dll
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.Entitiy\bin\Debug\CourierManagementSystem.Entitiy.pdb
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.Entitiy\obj\Debug\CourierManagementSystem.Entitiy.csproj.AssemblyReference.cache
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.Entitiy\obj\Debug\CourierManagementSystem.Entitiy.csproj.CoreCompileInputs.cache
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.Entitiy\obj\Debug\CourierManagementSystem.Entitiy.dll
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.Entitiy\obj\Debug\CourierManagementSystem.Entitiy.pdb
